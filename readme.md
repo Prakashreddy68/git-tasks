@@ -1,2 +1,2 @@
-This is my Git practice file
+second commit - updated readme content
 
